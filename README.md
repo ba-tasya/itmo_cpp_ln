@@ -1,0 +1,1 @@
+# Test status in Github.Actions: [![BuildTest](../../actions/workflows/buildtest.yaml/badge.svg?branch=main&event=workflow_dispatch)](../../actions/workflows/buildtest.yaml)
